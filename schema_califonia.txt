@@ -1,0 +1,10 @@
+household,individual
+
+[Foreign Key]
+household.HOUSEHOLD-individual.HOUSEHOLD
+
+[Primary Key]
+household.HOUSEHOLD
+individual.INDIVIDUAL
+
+[Tables do not scale]

@@ -25,7 +25,7 @@ import json
 import warnings
 warnings.filterwarnings("ignore")
 
-from options import opt
+# from options import opt
 import data_gen_SPN_v6 as SPN_test
 from read_job_queries import parse_queries_csv
 # from utils import range_query
